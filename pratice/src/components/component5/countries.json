@@ -1,0 +1,41 @@
+[
+    {
+        "name": "Austria",
+        "code": "Af"
+    },
+    {
+        "name": "Afghanistan",
+        "code": "Ax"
+    },
+    {
+        "name": "Algeria",
+        "code": "Al"
+    },
+    {
+        "name": "Andorra",
+        "code": "Dz"
+    },
+
+    {
+        "name": "Armenia",
+        "code": "Am"
+    },
+    {
+        "name": "Bahrain",
+        "code": "Bh"
+    },
+    {
+        "name": "Bangladesh",
+        "code": "Bd"
+    },  {
+        "name": "Barbados",
+        "code": "BB"
+    },  {
+        "name": "Islands",
+        "code": "Ax"
+    },  {
+        "name": "American",
+        "code": "As"
+    }
+    
+]
